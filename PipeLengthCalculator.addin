@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>PipeLengthCalculator.dll</Assembly>
+    <ClientId>GENERATE-NEW-GUID-HERE</ClientId>
+    <FullClassName>PipeLengthCalculator.Application</FullClassName>
+    <Name>Pipe Length Calculator</Name>
+    <VendorId>Pearce O'Connor</VendorId>
+    <VendorDescription>MEP Piping Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
